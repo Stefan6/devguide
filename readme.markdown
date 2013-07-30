@@ -1,2 +1,0 @@
-# OGS Developer Guide #
-
